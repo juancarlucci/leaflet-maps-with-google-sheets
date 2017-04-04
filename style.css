@@ -43,9 +43,9 @@ h6 {
 
 .leaflet-control-custom {
   padding: 6px 8px;
-  background: white;
+  background: #89c63b;
   box-shadow: 0 1px 5px rgba(0,0,0,0.4);
-  color: #333;
+  color: #fff;
   border-radius: 5px;
 }
 
@@ -79,7 +79,7 @@ form {
 .loader,
 .loader:before,
 .loader:after {
-  background: #000;
+  background: #afedf9;
   -webkit-animation: load1 1s infinite ease-in-out;
   animation: load1 1s infinite ease-in-out;
   width: 1em;
@@ -189,15 +189,18 @@ form {
   border-radius: 5px;
   opacity: 0.8;
 }
-
-#polygonSelect {
+#points-legend,
+#polygonSelect,
+#polylines-legend {
   width: 100%;
+  color: white;
+  background: #fbcc02;
 }
 
 .polygon-label {
   position: absolute;
   left: -15px;
-  color: #444;
+  color: #FFEB3B;
   font-weight: bold;
   opacity: 0.9;
   pointer-events: none !important;
