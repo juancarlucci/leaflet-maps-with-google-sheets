@@ -1,7 +1,7 @@
 # Leaflet Maps with Google Sheets
 Customize Leaflet maps with a linked Google Sheets template and GeoJSON data on GitHub
 
-## Live links (replace with your own)
+## Live links
 - Leaflet Map https://juancarlucci.github.io/leaflet-maps-with-google-sheets/
 - Google Sheets template https://docs.google.com/spreadsheets/d/1o26zvhu_HH7LoyfVCFMC0FJnCj6hwF7yW2D5hTItD1k/edit#gid=0
 
@@ -27,7 +27,3 @@ Developed by [Ilya Ilyankou](https://github.com/ilyankou) and [Jack Dougherty](h
 - polylabel (Dec. 2016 customized) https://github.com/mapbox/polylabel to optimally place text labels in a polygon (ISC), with TinyQueue (v1.1.0) (https://github.com/mourner/tinyqueue), polylabel's dependency (ISC)
 - jQuery-CSV (v0.71) https://github.com/evanplaice/jquery-csv (MIT)
 - DataTables (v1.10.13) by SpryMedia Ltd. https://datatables.net (MIT)
-
-## Please submit any pull requests to our DEV repo
-- Leaflet Map FOR DEVELOPMENT https://jackdougherty.github.io/leaflet-maps-with-google-sheets-dev/index.html
-- Google Sheet FOR DEVELOPMENT https://docs.google.com/spreadsheets/d/1_xjrH3gSImzRKqIkhRAqpAAMjH387yaBWfGbidkKtqM/
